@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2024-09-19T09:09:26.328923",
+            "datePublished": "2024-10-02T16:13:16.006484",
             "hasPart": [
                 {
                     "@id": "bacterial_genome_annotation.ga"
@@ -64,7 +64,7 @@
             ],
             "creator": [
                 {
-                    "@id": "#287e9770-de16-461e-b383-6333d21d04c6"
+                    "@id": "#8c37e585-f892-4ac1-baad-87b17c563f39"
                 },
                 {
                     "@id": "https://www.abromics.fr/"
@@ -81,7 +81,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/bacterial_genome_annotation",
-            "version": "1.1.4"
+            "version": "1.1.5"
         },
         {
             "@id": "#galaxy",
@@ -96,7 +96,7 @@
             "version": "v19_09"
         },
         {
-            "@id": "#287e9770-de16-461e-b383-6333d21d04c6",
+            "@id": "#8c37e585-f892-4ac1-baad-87b17c563f39",
             "@type": "Person",
             "name": "ABRomics"
         },
@@ -162,7 +162,7 @@
             "conformsTo": {
                 "@id": "https://w3id.org/ro/terms/test#PlanemoEngine"
             },
-            "engineVersion": ">=0.75.25"
+            "engineVersion": ">=0.75.26"
         },
         {
             "@id": "https://w3id.org/ro/terms/test#PlanemoEngine",
