@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2025-07-30T10:24:18.341216",
+            "datePublished": "2025-12-05T16:11:41.715911",
             "hasPart": [
                 {
                     "@id": "bacterial_genome_annotation.ga"
@@ -64,7 +64,7 @@
             ],
             "creator": [
                 {
-                    "@id": "#27e3be6d-ae68-4a28-acaf-f765f7a1fd10"
+                    "@id": "#a9036f8d-eb5f-45cc-b7f1-6ebb967129ab"
                 },
                 {
                     "@id": "https://www.abromics.fr/"
@@ -74,6 +74,9 @@
                 },
                 {
                     "@id": "https://orcid.org/0009-0005-6140-0379"
+                },
+                {
+                    "@id": "https://orcid.org/0009-0005-6834-4058"
                 }
             ],
             "name": "bacterial_genome_annotation/main",
@@ -81,7 +84,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/bacterial_genome_annotation",
-            "version": "1.1.11"
+            "version": "1.2.0"
         },
         {
             "@id": "#galaxy",
@@ -96,7 +99,7 @@
             "version": "v19_09"
         },
         {
-            "@id": "#27e3be6d-ae68-4a28-acaf-f765f7a1fd10",
+            "@id": "#a9036f8d-eb5f-45cc-b7f1-6ebb967129ab",
             "@type": "Person",
             "name": "ABRomics"
         },
@@ -114,6 +117,11 @@
             "@id": "https://orcid.org/0009-0005-6140-0379",
             "@type": "Person",
             "name": "Clea Siguret"
+        },
+        {
+            "@id": "https://orcid.org/0009-0005-6834-4058",
+            "@type": "Person",
+            "name": "Hugo Lefeuvre"
         },
         {
             "@id": "README.md",
@@ -162,7 +170,7 @@
             "conformsTo": {
                 "@id": "https://w3id.org/ro/terms/test#PlanemoEngine"
             },
-            "engineVersion": ">=0.75.31"
+            "engineVersion": ">=0.75.33"
         },
         {
             "@id": "https://w3id.org/ro/terms/test#PlanemoEngine",
